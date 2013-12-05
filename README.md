@@ -1,8 +1,8 @@
 value_converter
 ===============
-Value Converter Written in Python Ver1.0
+Value Converter Written in Python Ver1.1
 
-Last updated 2013.12.05
+Last updated 2013.12.06
 
 ###Usage
     python valconv.py [options] value
