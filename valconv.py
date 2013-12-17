@@ -150,7 +150,7 @@ optparser.add_option("--doublehex", action="store_true", dest="doublehex",
 optparser.add_option("--floatdec", action="store_true", dest="floatdec",
                      default=False, help="conversion format: hex -> dec (float)")
 optparser.add_option("--doubledec", action="store_true", dest="doubledec",
-                     default=False, help="conversion format: hex -> dec(double)")
+                     default=False, help="conversion format: hex -> dec (double)")
 (options, args) = optparser.parse_args()
 
 if options.version:
